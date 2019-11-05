@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/silence401/test/raycasting.cpp
+stdio.h
+-
+stdlib.h
+-
+math.h
+-
+GL/glut.h
+-
+

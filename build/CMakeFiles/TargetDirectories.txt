@@ -1,0 +1,3 @@
+/home/silence401/test/build/CMakeFiles/edit_cache.dir
+/home/silence401/test/build/CMakeFiles/raycasting.dir
+/home/silence401/test/build/CMakeFiles/rebuild_cache.dir
